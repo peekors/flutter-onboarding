@@ -11,8 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   freezed_annotation: ^0.15.0
-  flutter_hooks: ^0.18.0
-  hooks_riverpod: ^1.0.0
+  flutter_hooks: ^0.18.5+1
+  hooks_riverpod:  2.0.0-dev.9
 
 dev_dependencies:
   flutter_test:
